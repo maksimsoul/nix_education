@@ -21,3 +21,19 @@
     border-radius: 20px 5px;
     background-color: #0066FF;
 }
+TABLE {
+    border: 1px solid black; /* Параметры рамки */
+    margin-top: 10px;
+}
+TD, TH {
+    padding: 6px; /* Поля вокруг содержимого таблицы */
+    padding-right: 25px;
+    border: 1px solid black; /* Параметры рамки */
+}
+TH {
+    background: #b0e0e6; /* Цвет фона */
+}
+p {
+    margin: 0;
+    padding: 2px;
+}
